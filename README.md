@@ -6,6 +6,8 @@
 
 This Power BI project aims to transform raw data into actionable insights through dynamic reports and dashboards. This assists the management team in monitoring Key Performance Indicators (KPIs), comparing regional performance, analyzing product-level trends, and identifying high-value customers.
 
+![Image](https://github.com/dassebedjibril/Comprehensive-Business-Data-for-Adventure-Work/assets/56389559/4bf27f2f-3fa0-4a3f-9324-09eee39754fd)
+
 
 ### Dashboard Access
 
@@ -171,3 +173,4 @@ Analyzed to integrate customer satisfaction and product quality insights into th
 
 ## Conclusion
 This Power BI project demonstrates the detailed process of converting extensive raw data into meaningful insights that facilitate strategic decision-making within AdventureWorks. The dashboards serve as crucial tools for ongoing business assessment and strategy development.
+
